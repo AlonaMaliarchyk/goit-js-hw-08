@@ -1,0 +1,20 @@
+{
+  "name": "goit-js-hw-08",
+  "version": "1.0.0",
+  "description": "Інфраструктура проектів",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlonaMaliarchyk/goit-js-hw-08.git"
+  },
+  "keywords": [],
+  "author": "YOUR_NAME <YOUR_EMAIL\nsimorot@ukr.net\n\nnpm config set init.author.email YOUR_EMAIL>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlonaMaliarchyk/goit-js-hw-08/issues"
+  },
+  "homepage": "https://github.com/AlonaMaliarchyk/goit-js-hw-08#readme"
+}
